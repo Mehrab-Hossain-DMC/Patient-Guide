@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Patient Guide</string>
+    <string name="title_activity_main">Patient Guide</string>
+    <string name="package_name">com.mehrab.patientguide</string>
+    <string name="custom_url_scheme">com.mehrab.patientguide</string>
+</resources>
